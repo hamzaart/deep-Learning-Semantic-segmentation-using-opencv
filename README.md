@@ -1,31 +1,8 @@
-# deep-Learning-Semantic-segmentation-using-opencv
 
- you will learn how to perform semantic segmentation using OpenCV, deep learning, and the ENet architecture
- Semantic segmentation algorithms on the other hand attempt to:
+vous apprendrez à effectuer une segmentation sémantique à l'aide d'OpenCV, de l'apprentissage en profondeur et de l'architecture ENet. D'autre part, les algorithmes de segmentation sémantique tentent:
 
-Partition the image into meaningful parts
-While at the same time, associate every pixel in an input image with a class label (i.e., person, road, car, bus, etc.)
+Partitionnez l'image en parties significatives Tout en même temps, associez chaque pixel d'une image d'entrée à une étiquette de classe (personne, route, voiture, bus, etc.).
 
-. trained that dataset on The @ Cityscapes Dataset, a semantic, instance-wise, dense pixel annotation of 20-30 classes (depending on which model you’re using).
-The particular model we’re using is trained on 20 classes, including:
+. a formé ce jeu de données sur le jeu de données @ Cityscapes, une annotation sémantique, au niveau des pixels, de 20 à 30 classes (selon le modèle que vous utilisez). Le modèle que nous utilisons est formé sur 20 classes, notamment:
 
-Unlabeled (i.e., background)
-Road
-Sidewalk
-Building
-Wall
-Fence
-Pole
-TrafficLight
-TrafficSign
-Vegetation
-Terrain
-Sky
-Person
-Rider
-Car
-Truck
-Bus
-Train
-Motorcycle
-Bicycle
+Sans étiquette (par exemple, arrière-plan) Route Trottoir Bâtiment Mur Clôture Clôture Circulation Légère CirculationSigne Végétation Terrain Ciel Personne Rider Voiture Camion Bus Train Moto Vélo
