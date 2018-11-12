@@ -8,4 +8,4 @@ Partitionnez l'image en parties significatives Tout en même temps, associez cha
 Sans étiquette (par exemple, arrière-plan) Route Trottoir Bâtiment Mur Clôture Clôture Circulation Légère CirculationSigne Végétation Terrain Ciel Personne Rider Voiture Camion Bus Train Moto Vélo
 
 
-NB : This is based on a post for Dr Adrian from pyimagesearch !
+Ps : This is based on a post for Dr Adrian from pyimagesearch !
